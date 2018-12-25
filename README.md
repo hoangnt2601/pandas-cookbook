@@ -1,9 +1,6 @@
 Tài liệu được dịch trong Pandas cookbook của tác giả [Julia Evans](https://github.com/jvns)
-===============
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
-
-[pandas](http://pandas.pydata.org/) là một thư viện python để làm phân tích dữ liệu. Cũng như ngôn ngữ lập trình python, thư viện này cho phép bạn viết mã nhanh gọn.
+[pandas](http://pandas.pydata.org/) là một thư viện python để làm phân tích dữ liệuC. ũng như ngôn ngữ lập trình python, thư viện này cho phép bạn viết mã nhanh gọn.
 
 Mục tiêu của cuốn cookbook này là cung cấp cho bạn một số ví dụ thực tế cho việc bắt đầu với thư viện pandas dựa theo [tài liệu](http://pandas.pydata.org/pandas-docs/stable/) gốc.
 
@@ -27,7 +24,7 @@ Mục lục
 * [Chapter 8: Phân tích Unix timestamps]()
 * [Chapter 9 - Xử lý cơ sở dữ liệu SQL]()
 
-Làm thế nào để sử dụng cookbook?
+Làm thế nào để sử dụng cookbook này?
 ========================
 
 Để cài đặt local bạn cần cài đặt jupyter notebook, tôi khuyên bạn nên cài jupyter notebook trên môi trường Anaconda bởi nó sẽ giúp bạn quản lí các thư viện tiện lợi hơn.
@@ -37,9 +34,4 @@ Hoặc có thể sử dụng `pip` và cài đặt theo yêu cầu đã chuẩn 
 
 ```bash
   pip install -r requirements.txt
-```
-Cuối cùng hãy clone dự án này về máy cá nhân và khởi chạy Jupyter notebook trên Anaconda.
-
-```bash
-git clone https://github.com/hoangnt2601/pandas-cookbook
 ```
